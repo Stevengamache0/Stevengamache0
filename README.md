@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stevengamache0
 - 👀 I’m interested in learning Python
-- 🌱 I’m currently learning nodejs in tandem with SQL
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ... (nothing at the moment)
 - 📫 How to reach me:
 - Email- stevengamache0@gmail.com
